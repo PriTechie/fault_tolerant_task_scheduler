@@ -26,8 +26,9 @@ A simulated fault-tolerant scheduler inspired by real-time embedded systems used
 
 ## Sample Outputs
 
-- `graphs/readings.png`: Time series graph for telemetry readings.
-- `graphs/failures.png`: Pie chart showing percentage of task statuses.
+- ![Telemetry Readings](graphs/readings.png)
+  Time series graph for telemetry readings.
+
 
 ---
 
